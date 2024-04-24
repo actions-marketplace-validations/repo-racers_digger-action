@@ -1,4 +1,4 @@
-name: run-digger
+name: run-digger - Repo Racers Pro Support
 description: Manage terraform collaboration
 author: Digger
 
@@ -317,4 +317,4 @@ runs:
         digger
 branding:
   icon: globe
-  color: purple
+  color: blue
